@@ -1,5 +1,5 @@
 # SafeAI
-SafeAI proposal
+SafeAI Final
 
 # Dataset & Code (with model.pth file)
 
