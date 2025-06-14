@@ -47,7 +47,7 @@ https://drive.google.com/drive/folders/1dzut6NRckFnWZiVRQoL8922IoZiclUc2?usp=sha
 
 -> The result of predicting Asian with refined model
 
-4. saved_predictions3
+4. triplet_predictions
 
--> The three results of predicting Asian with OG model, Unlearned model and Refined model
+-> The triplet of predicting Asian with OG model, Unlearned model and Refined model
 
