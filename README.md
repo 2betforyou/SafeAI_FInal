@@ -1,5 +1,5 @@
 # SafeAI
-SafeAI Final
+SafeAI Final Project
 
 # Dataset & Code (with model.pth file)
 
@@ -30,3 +30,24 @@ https://drive.google.com/drive/folders/1dzut6NRckFnWZiVRQoL8922IoZiclUc2?usp=sha
 | `glob`               | built-in    |
 | `random`             | built-in    |
 | `zipfile`            | built-in    |
+
+
+
+# 📁 About Folders
+
+1. saved_predictions
+
+-> The result of predicting Westerners with Unlearned model
+
+2. saved_predictions1
+
+-> The result of predicting Asian with Unlearned model
+
+3. saved_predictions2
+
+-> The result of predicting Asian with refined model
+
+4. saved_predictions3
+
+-> The three results of predicting Asian with OG model, Unlearned model and Refined model
+
